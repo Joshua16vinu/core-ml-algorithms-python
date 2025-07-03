@@ -6,15 +6,6 @@ This repository contains a Jupyter Notebook showcasing the manual implementation
 
 ---
 
-## 📁 Files
-
-- `ML_Algorithms.ipynb` – A Jupyter Notebook implementing:
-  - Supervised and Unsupervised algorithms from scratch
-  - Comparison with `scikit-learn` versions
-  - Visual outputs and performance summaries
-
----
-
 ## 💡 Algorithms Implemented
 
 ### ✅ Supervised Learning
@@ -87,35 +78,13 @@ jupyter notebook ML_Algorithms.ipynb
 
 ---
 
-## 🤝 Contributing
 
-Contributions are welcome! Feel free to:
-- Add more ML algorithms (e.g., SVM, Random Forest)
-- Improve visualization and UI
-- Add error metrics, AUC/ROC comparisons, etc.
-
-```bash
-# Typical workflow
-git checkout -b your-feature
-git commit -m "Added new model"
-git push origin your-feature
-```
-
-Then create a **Pull Request** 🚀
-
----
-
-## 📜 License
-
-This project is licensed under the **MIT License** – feel free to use and modify it.
-
----
 
 ## 🙋‍♂️ Author
 
 **Joshua Vinu Koshy**  
-GitHub: [github.com/your-username](https://github.com/your-username)  
-Email: your.email@example.com *(optional)*
+GitHub: [Joshua16vinu](https://github.com/Joshua16vinu)  
+
 
 ---
 
