@@ -1,4 +1,3 @@
-```markdown
 # 📘 Machine Learning Algorithms – From Scratch in Python
 
 ## 🔍 Overview
